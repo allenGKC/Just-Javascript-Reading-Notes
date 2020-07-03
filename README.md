@@ -4,6 +4,6 @@
 
 Here is [the chinese traslation verion of Just javasript](https://songkeys.github.io/posts/jj-01/) translated by [@Songkeys](https://github.com/songkeys).
 
-This repo is my reading notes of Just Javascript course.
+This repo is my reading notes of Just Javascript course and will use issue to record my reading journey.
 
 Thanks for reading.
