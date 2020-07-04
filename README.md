@@ -6,4 +6,7 @@ Here is [the chinese traslation version of Just javasript](https://songkeys.gith
 
 This repo is my reading notes of Just Javascript and record my reading journey through issues.
 
-Thanks for reading.
+Table of contents:
+
+* [[Just JavaScript] 01. Mental Models](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/1)
+
