@@ -1,6 +1,6 @@
 # Just-Javascript-Reading-Notes
 
-[Just javascript](https://justjavascript.com/) is a free course about javascript writen by [Dan Abramov](https://github.com/gaearon) which you can subscribe by email.
+[Just javascript](https://justjavascript.com/) is a free course about javascript written by [Dan Abramov](https://github.com/gaearon) which you can subscribe by email.
 
 Here is [the chinese traslation verion of Just javasript](https://songkeys.github.io/posts/jj-01/) translated by [@Songkeys](https://github.com/songkeys).
 
