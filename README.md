@@ -16,3 +16,4 @@ This repo is my reading notes of Just Javascript and record my reading journey t
 * [[Just JavaScript] 04. Counting the Values (Part 1)](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/4)
 * [[Just JavaScript] 05. Counting the Values (Part 2)](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/5)
 * [[Just JavaScript] 06. Equality of Values](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/6)
+* [[Just JavaScript] 07. Properties](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/7)
