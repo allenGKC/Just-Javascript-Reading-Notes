@@ -18,3 +18,4 @@ This repo is my reading notes of Just Javascript and record my reading journey t
 * [[Just JavaScript] 06. Equality of Values](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/6)
 * [[Just JavaScript] 07. Properties](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/7)
 * [[Just JavaScript] 08. Mutation ](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/8)
+* [[Just JavaScript] 09. Prototypes](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/9)
