@@ -2,7 +2,7 @@
 
 ## Backgroud
 
-[Just javascript](https://justjavascript.com/) is a free course about javascript written by [Dan Abramov](https://github.com/gaearon) which you can subscribe by email.
+[Just JavaScript]((https://justjavascript.com/)) - an online course that could better prepare you to understand JavaScript by [Dan Abramov](https://github.com/gaearon) which you can subscribe by email.
 
 Here is [the chinese traslation version of Just javasript](https://songkeys.github.io/posts/jj-01/) translated by [@Songkeys](https://github.com/songkeys).
 
