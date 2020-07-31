@@ -1,5 +1,7 @@
 # Just-Javascript-Reading-Notes
 
+This repo will update till Dan Abramov to update.
+
 ## Backgroud
 
 [Just JavaScript](https://justjavascript.com/) - an online course that could better prepare you to understand JavaScript by [Dan Abramov](https://github.com/gaearon) which you can subscribe by email.
@@ -19,3 +21,4 @@ This repo is my reading notes of Just Javascript and record my reading journey t
 * [[Just JavaScript] 07. Properties](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/7)
 * [[Just JavaScript] 08. Mutation ](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/8)
 * [[Just JavaScript] 09. Prototypes](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/9)
+
