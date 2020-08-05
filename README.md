@@ -1,6 +1,6 @@
-# Just-Javascript-Reading-Notes
+**This repo will be discarded because Dan Abramov will not update for now.**
 
-This repo will update till Dan Abramov to update.
+# Just-Javascript-Reading-Notes
 
 ## Backgroud
 
