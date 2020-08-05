@@ -1,4 +1,4 @@
-**This repo will be discarded because Dan Abramov will not update for now.**
+## **This repo will be discarded because Dan Abramov will not update for now.**
 
 # Just-Javascript-Reading-Notes
 
