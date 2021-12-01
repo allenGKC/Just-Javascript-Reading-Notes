@@ -2,7 +2,7 @@
 
 # Just-Javascript-Reading-Notes
 
-## Backgroud
+## ackground
 
 [Just JavaScript](https://justjavascript.com/) - an online course that could better prepare you to understand JavaScript by [@Dan Abramov](https://github.com/gaearon) which you can subscribe by email.
 
