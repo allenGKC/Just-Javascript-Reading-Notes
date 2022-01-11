@@ -1,10 +1,8 @@
-## **It is a pity that this repo will be discarded because Dan Abramov will not update for now.**
-
 # Just-Javascript-Reading-Notes
 
 ## Background
 
-[Just JavaScript](https://justjavascript.com/) - an online course that could better prepare you to understand JavaScript by [@Dan Abramov](https://github.com/gaearon) which you can subscribe by email.
+[Just JavaScript](https://justjavascript.com/) - an online course that could better prepare you to understand JavaScript by [@Dan Abramov](https://github.com/gaearon).
 
 Here is [the chinese traslation version of Just javasript](https://songkeys.github.io/posts/jj-01/) translated by [@Songkeys](https://github.com/songkeys).
 
