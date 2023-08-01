@@ -4,8 +4,6 @@
 
 [Just JavaScript](https://justjavascript.com/) - an online course that could better prepare you to understand JavaScript by [@Dan Abramov](https://github.com/gaearon).
 
-Here is [the chinese traslation version of Just javasript](https://songkeys.github.io/posts/jj-01/) translated by [@Songkeys](https://github.com/songkeys).
-
 This repo is my reading notes of Just Javascript and record my reading journey through issues.
 
 ## Table of contents:
