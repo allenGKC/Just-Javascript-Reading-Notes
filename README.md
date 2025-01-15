@@ -18,3 +18,4 @@ This repo is my reading notes of Just Javascript and record my reading journey t
 * [[Just JavaScript] 08. Mutation ](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/8)
 * [[Just JavaScript] 09. Prototypes](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues/9)
 
+The short quiz: https://eggheadio.typeform.com/to/PLyTKB?typeform-source=yu.mantoufan.com
